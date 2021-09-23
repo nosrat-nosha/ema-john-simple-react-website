@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+}
+.logo{
+    height: 50px;
+   
+}
+.navbar{
+    background-color: black;
+    line-height: 40px;
+}
+.navbar  a{
+text-decoration: none;
+color: white;
+margin-left: 20px;
+padding: 10px;
+}
+.navbar  a:hover{
+  background-color: oldlace;
+  color: black;
+    }
